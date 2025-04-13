@@ -13,4 +13,5 @@ Follow these steps before using the script:
    OUTPUT_DIR="/media/usb/volatile_data"
 
 3. Replace the default path /media/usb/volatile_data with the desired path where you want to store the captured data. For example:
+
    OUTPUT_DIR="/home/username/capture_data"
