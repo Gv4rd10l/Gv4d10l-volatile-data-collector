@@ -1,5 +1,7 @@
 # Gv4d10l-volatile-data-collector
 
+![logo](GVDC.webp)
+
 A bash script tool to collect data from volatile memory on Linux.
 
 ## Before You Use the Tool
