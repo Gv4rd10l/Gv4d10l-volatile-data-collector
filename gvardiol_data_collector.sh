@@ -16,5 +16,6 @@ ifconfig > $OUTPUT_DIR/network_config.txt
 uptime > $OUTPUT_DIR/system_uptime.txt
 dmesg > $OUTPUT_DIR/system_messages.txt
 find / -type f -atime -1 > $OUTPUT_DIR/recent_files.txt
+ls /etc/cron.d/ > $OUTPUT_DIR/schedule_tasks.txt
 
 echo "[*] Data collected at $OUTPUT_DIR."
